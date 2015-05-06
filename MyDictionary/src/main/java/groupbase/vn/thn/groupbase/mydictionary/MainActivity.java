@@ -1,4 +1,4 @@
-package mydictionary.thn.vn.groupbase.mydictionary;
+package groupbase.vn.thn.groupbase.mydictionary;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;

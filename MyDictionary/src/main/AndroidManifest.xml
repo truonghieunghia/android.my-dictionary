@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="mydictionary.thn.vn.groupbase.mydictionary" >
+    package="groupbase.vn.thn.groupbase.mydictionary" >
 
     <application
         android:allowBackup="true"
